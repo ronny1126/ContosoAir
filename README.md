@@ -1,6 +1,6 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
-[![Build Status](https://dev.azure.com/rjaime/ContosoAirLab/_apis/build/status/ronny1126.ContosoAir?branchName=master)](https://dev.azure.com/rjaime/ContosoAirLab/_build/latest?definitionId=6&branchName=master)
+[![Build Status](https://dev.azure.com/rjaime/ContosoAirLab/_apis/build/status/ronny1126.ContosoAir?branchName=master)](https://dev.azure.com/rjaime/ContosoAirLab/_apis/build/status/ronny1126.ContosoAir?branchName=master)
 
 # Microsoft.Github CI Demo
 
